@@ -1,6 +1,7 @@
+// lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'screens/materi_screen.dart';
+import 'package:test_materi/screens/onboarding_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -12,7 +13,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: MateriScreen(),
+      debugShowCheckedModeBanner: false,
+      home: OnboardingPageScreen(),
     );
   }
 }
