@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045291128684",
+    "project_id": "notifikasi-belajar-8c541",
+    "storage_bucket": "notifikasi-belajar-8c541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045291128684:android:9609b6318bc562058d8549",
+        "android_client_info": {
+          "package_name": "com.example.test_materi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1duX5vuYx1jT637aTgOxJ9YE8-pNZZx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045291128684:android:2c8d1032b3fefb338d8549",
+        "android_client_info": {
+          "package_name": "com.projectliterasi.marthatutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1duX5vuYx1jT637aTgOxJ9YE8-pNZZx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
