@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:test_materi/screens/home_screen.dart';
 import 'screens/materi_screen.dart';
 
 void main() async {
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: MateriScreen(),
+      home: HomePage(),
     );
   }
 }
